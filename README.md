@@ -6,6 +6,9 @@
 ## About
 
 > A blog API
+> A simple CRUD of Posts
+> Using tests with Jest
+> Project structure based in responsibilities layers
 
 ## Tech Stack
 ```
