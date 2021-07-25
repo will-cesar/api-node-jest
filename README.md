@@ -10,9 +10,11 @@
 ## Tech Stack
 ```
 - Axios
+- Crypto
 - Docker
 - Express
 - Jest
 - Node.js
+- Nodemon
 - PostgreSQL
 ```
